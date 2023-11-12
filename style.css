@@ -1,0 +1,46 @@
+.marchContainer{
+    height: 300px;
+    width: 1200px;
+    border: solid black;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: auto;
+}
+.mayContainer{
+    height: 300px;
+    width: 1200px;
+    border: solid black;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.augustContainer{
+    height: 300px;
+    width: 1200px;
+    border: solid black;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.dataContainer{
+    height: 100%;
+    width: 33%;
+    background-color: rgb(50, 48, 48);
+    
+    
+}
+.data{
+    margin-bottom: 50px;
+    align-content: center;
+    text-align: center;
+    color: aliceblue;
+    vertical-align: center;
+}
+
+
+.dropdown-content {
+    min-width: max-content;
+    max-height: 0;
+    transition: max-height 1s;
+   }
